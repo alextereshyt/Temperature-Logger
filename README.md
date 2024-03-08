@@ -28,7 +28,8 @@ A simple temperature logger with lcd display and real time info.
 
 - Just power on the device and it will automatically start logging temperature and date to sd card 
 (Device will create a txt file every day)<br>
-- Select dashboard to view real time statistic 
+- Use rotary encoder to navigate in menu
+- Use ecoder button to Select or Deselect menu option
 
 <h2>Libraries</h2>
 
